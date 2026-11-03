@@ -1,0 +1,16 @@
+{
+  "name": "couple-games-ws",
+  "version": "1.0.0",
+  "private": true,
+  "description": "情侣联机小游戏 WebSocket 服务端（抖音云容器服务）",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
